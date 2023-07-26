@@ -240,7 +240,7 @@ span {
 
 /*Multimedia*/
 .multimedia {
-    background: linear-gradient( rgb(92, 23, 221), var(--second-bg-color));
+    background: linear-gradient( rgb(92, 23, 221ss), var(--second-bg-color));
 }
 
 .multimedia-content h1 {
